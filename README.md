@@ -27,12 +27,17 @@ run.ipynb will automatically run the following notebooks in order:
 1. Preprocess_domain_data.ipynb - this notebooks preprocesses the scraped domain data to generate our main rental dataset 
 
 2. Preprocessing_population.ipynb  - preprocesses population in each SA2 data taken from Australian Bureau of Statistics
+Link to data source:abs.gov.au/statistics/people/population/regional-population-age-and-sex/latest-release
 
-3. Preprocess_income.ipynb - preprocesses income from 2015 - 2019 - Data from Aurin
+3. Preprocess_income.ipynb - preprocesses income from 2015 - 2019 - Data from Aurin:
+https://data.aurin.org.au/dataset/au-govt-abs-abs-data-by-region-pop-and-people-asgs-sa3-2011-2019-sa3-2016
 
 4. Shapefiles_preprocessing.ipynb - preprocesses LGA and SA2 shapefiles to be used in geoplots
 
+Shapefiles for Local Government Area and Statistical taken from:https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
+
 5. Crime_rate_preprocessing.ipynb - preprocesses LGA crime rates and converts into ratios
+Crime data from Crime Statistics Victoria: https://www.crimestatistics.vic.gov.au/crime-statistics/latest-crime-data-by-area
 
 6. Age_group_preprocessing.ipynb - preprocesses population binned by age groups
 
