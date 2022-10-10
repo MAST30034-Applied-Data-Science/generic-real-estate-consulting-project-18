@@ -61,3 +61,7 @@ run.ipynb will automatically run the following notebooks in order:
 **CHANGE NAME LATER**
 
 18. Summary_notebook_final.ipynb - this is the official summary notebook to be presented to stakeholders to show all of our findings in the most interactive and readable format
+
+**NOTE: The data from the POIs folder and rental data were scraped during mid-september 2022 and that is the data we used for this project. In order to reproduce the scraping process that we conducted to generate these datasets, please run the following notebooks: **
+
+**ARAN TO ADD**
