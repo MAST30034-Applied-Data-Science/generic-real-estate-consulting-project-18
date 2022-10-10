@@ -1,0 +1,8 @@
+python 3.10.7
+pandas 1.5.0
+numpy 1.23.3
+matplotlib 3.6.0
+statsmodels 0.13.2
+scipy 1.9.1
+sklearn 1.1.2
+association-metrics 0.0.1
