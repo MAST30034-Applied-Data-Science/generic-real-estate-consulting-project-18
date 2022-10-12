@@ -1,6 +1,6 @@
 # Generic Real Estate Consulting Project
 
-Group 18 Members: Lucy (Yunfei) Liu (1142341), Xiran (Aran) Wang (1170876), Dustin Edgar Tano, Jane Vieren Anggani, Benedict Haryono (1166433)
+Group 18 Members: Lucy (Yunfei) Liu (1142341), Xiran (Aran) Wang (1170876), Dustin Edgar Tano (1188678), Jane Vieren Anggani (1148126), Benedict Haryono (1166433)
 
 This is our Final Industry Project for subject MAST30024 Applied Data Science at the University of Melbourne. In this project, we aim to:
 1. Discover the **most significant internal and external features** for predicting rental prices in various SA2 suburbs within Victoria
@@ -62,8 +62,6 @@ Crime data from Crime Statistics Victoria: https://www.crimestatistics.vic.gov.a
 16. `Merge_all_data.ipynb` - merge all external datasets into one for modelling and predictions
 
 17. `Summary_notebook_skeleton.ipynb` - skeleton code for all the modelling and analysis conducted (feature selection, forecasts, liveability etc.)
-**^**
-**CHANGE NAME LATER**
 
 18. `Summary_notebook_final.ipynb` - this is the official summary notebook to be presented to stakeholders to show all of our findings in the most interactive and readable format
 
