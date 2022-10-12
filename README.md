@@ -74,7 +74,9 @@ Crime data from Crime Statistics Victoria: https://www.crimestatistics.vic.gov.a
 
 *OpenRouteService query process for POIs*
 
-**You will need to apply for your own API keys**
+**You will need to apply for your own API keys. Please keep the keys appropriately in `api.json` and place the file in `./data/raw`.**
+
+Example: `{"name1": "key1", "name2": "key2"}`
 1. `distance_to_cbd.ipynb` - queries driving distance and duration to CBD for each property from ORS API
 
 2. `distance_json_to_csv.ipynb` - converts distance data from .json to .csv format
