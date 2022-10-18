@@ -67,6 +67,8 @@ Crime data from Crime Statistics Victoria: https://www.crimestatistics.vic.gov.a
 
 **NOTE: The data from the POIs folder and rental data were scraped during mid-september 2022 and that is the data we used for this project. In order to reproduce the scraping process that we conducted to generate these datasets, please run the following notebooks:**
 
+*Prior to running these below notebooks please run prereq.ipynb which will install necessary output folders where not available to ensure smooth running of code top to bottom. Additionally, please run the below notebooks in the indicated order and then run run.ipynb to process the raw data*
+
 *Rental scraping process*
 1. `postcode_scrape.ipynb` - Scrapes a list of postcodes in Victoria
 
